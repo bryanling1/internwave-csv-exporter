@@ -1,0 +1,7 @@
+{
+    "name": "CSV Exporter", 
+    "image": "logo.png", 
+    "originURL": "https://github.com/bryanling1/internwave-csv-exporter", 
+    "lastUpdated": 1722264922095,
+    "main": "index.js"
+}
